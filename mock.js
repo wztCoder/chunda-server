@@ -63,7 +63,7 @@ async function clearCollection() {
 }
 
 async function createMockData() {
-    const API_URL = 'http://localhost:4003/users';
+    const API_URL = 'http://localhost:3000/users';
 
     // First clear the collection
     await clearCollection();

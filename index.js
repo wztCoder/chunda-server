@@ -1,13 +1,14 @@
 const Koa = require('koa');
 const Router = require('@koa/router');
 const bodyParser = require('koa-bodyparser');
+require('dotenv').config();
 require('./config/db');  // 引入数据库配置
 const User = require('./models/user');
 // Create Koa app instance
 const app = new Koa();
 const router = new Router();
 // 获取所有客户余额
-router.get('/users/balances', async ctx => {
+router.get('/api/users/balances', async ctx => {
   try {
     // 1. 获取所有唯一客户
     const uniqueCustomers = await User.distinct('phoneNumber');
@@ -46,7 +47,7 @@ router.get('/users/balances', async ctx => {
   }
 });
 // 根据手机号查询客户交易记录
-router.get('/users/transactions/:phoneNumber', async ctx => {
+router.get('/api/users/transactions/:phoneNumber', async ctx => {
   try {
     const records = await User.find({
       phoneNumber: ctx.params.phoneNumber
@@ -92,7 +93,7 @@ router.get('/users/transactions/:phoneNumber', async ctx => {
   }
 });
 // 添加用户
-router.post('/users', async ctx => {
+router.post('/api/users', async ctx => {
   try {
     const user = new User(ctx.request.body);
     console.log('user', user);
@@ -104,7 +105,7 @@ router.post('/users', async ctx => {
   }
 });
 // 获取所有用户
-router.get('/users', async ctx => {
+router.get('/api/users', async ctx => {
   try {
     ctx.body = await User.find();
   } catch (error) {
@@ -118,7 +119,7 @@ app.use(router.routes());
 app.use(router.allowedMethods());
 
 // Start server
-const PORT = process.env.PORT || 4003;
+const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
