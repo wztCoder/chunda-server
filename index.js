@@ -1,6 +1,7 @@
 const Koa = require('koa');
 const Router = require('@koa/router');
 const bodyParser = require('koa-bodyparser');
+const cors = require('@koa/cors');
 require('dotenv').config();
 require('./config/db');  // 引入数据库配置
 const User = require('./models/user');
@@ -117,7 +118,7 @@ router.get('/api/users', async ctx => {
 app.use(bodyParser());
 app.use(router.routes());
 app.use(router.allowedMethods());
-
+app.use(cors());
 // Start server
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
