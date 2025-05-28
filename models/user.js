@@ -32,7 +32,7 @@ const userSchema = new mongoose.Schema({
   id: {
     type: Number,
     unique: true,
-    required: true,
+    required: function() { return !this.isNew; },
     comment: '客户ID'
   },
 });
