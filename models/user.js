@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-
+const Counter = require('./counter');
 const userSchema = new mongoose.Schema({
   customerName: { 
     type: String, 
@@ -28,7 +28,18 @@ const userSchema = new mongoose.Schema({
     type: Date, 
     default: Date.now,
     comment: '创建时间' 
-  }
+  },
 });
-
+// 添加前置钩子来自动生成 ID
+userSchema.pre('save', async function(next) {
+  if (this.isNew) {
+    const counter = await Counter.findByIdAndUpdate(
+      { _id: 'userId' },
+      { $inc: { seq: 1 } },
+      { new: true, upsert: true }
+    );
+    this.id = counter.seq;
+  }
+  next();
+});
 module.exports = mongoose.model('User', userSchema);

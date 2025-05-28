@@ -114,6 +114,36 @@ router.get('/api/users', async ctx => {
     ctx.body = error;
   }
 });
+// 根据id获取记录
+router.get('/api/users/:id', async ctx => {
+  try {
+    const user = await User.findById(ctx.params.id);
+    if (!user) {
+      ctx.status = 404;
+      ctx.body = { message: '用户未找到' };
+      return;
+    }
+    ctx.body = user;
+  } catch (error) {
+    ctx.status = 500;
+    ctx.body = error;
+  }
+});
+// 根据id del 记录
+router.delete('/api/users/:id', async ctx => {
+  try {
+    const user = await User.findByIdAndDelete(ctx.params.id);
+    if (!user) {
+      ctx.status = 404;
+      ctx.body = { message: '用户未找到' };
+      return;
+    }
+    ctx.body = { message: '用户已删除' };
+  } catch (error) {
+    ctx.status = 500;
+    ctx.body = error;
+  }
+});
 // Apply router middleware
 app.use(bodyParser());
 app.use(router.routes());
