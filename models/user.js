@@ -29,6 +29,12 @@ const userSchema = new mongoose.Schema({
     default: Date.now,
     comment: '创建时间' 
   },
+  id: {
+    type: Number,
+    unique: true,
+    required: true,
+    comment: '客户ID'
+  },
 });
 // 添加前置钩子来自动生成 ID
 userSchema.pre('save', async function(next) {
