@@ -12,13 +12,28 @@ const router = new Router();
 router.get('/api/users/balances', async (ctx) => {
   try {
     console.log('Fetching all user balances...');
-
+    console.log();
+    // Get pagination parameters from query
+    const page = parseInt(ctx.query.page) || 1;
+    const pageSize = parseInt(ctx.query.pageSize) || 10;
+    console.log(`Fetching user balances - Page: ${page}, PageSize: ${pageSize}`);
+    const skip = (page - 1) * pageSize;
+    const { customerName, phoneNumber } = ctx.query;
+    console.log(`Filters - Customer Name: ${customerName}, Phone Number: ${phoneNumber}`);
+    let query = {};
+    if (phoneNumber) {
+      query.phoneNumber = new RegExp(phoneNumber, 'i'); // case insensitive search
+    }
+    if (customerName) {
+      query.customerName = new RegExp(customerName, 'i');
+    }
     // 1. 获取所有唯一客户
-    const uniqueCustomers = await User.distinct('phoneNumber');
-
+    const uniqueCustomers = await User.distinct('phoneNumber', query);
+    const total = uniqueCustomers.length;
+    const paginatedCustomers = uniqueCustomers.slice(skip, skip + pageSize);
     // 2. 对每个客户计算余额
     const balances = await Promise.all(
-      uniqueCustomers.map(async (phoneNumber) => {
+      paginatedCustomers.map(async (phoneNumber) => {
         const records = await User.find({ phoneNumber });
 
         // 计算充值总额和消费总额
@@ -45,7 +60,15 @@ router.get('/api/users/balances', async (ctx) => {
       })
     );
 
-    ctx.body = balances;
+    ctx.body = {
+      data: balances,
+      pagination: {
+        current: page,
+        pageSize,
+        total,
+        totalPages: Math.ceil(total / pageSize)
+      }
+    };
   } catch (error) {
     ctx.status = 500;
     ctx.body = {
