@@ -13,7 +13,6 @@ const router = new Router();
 router.get('/api/users/balances', async (ctx) => {
   try {
     console.log('Fetching all user balances...');
-    console.log();
     // Get pagination parameters from query
     const page = parseInt(ctx.query.page) || 1;
     const pageSize = parseInt(ctx.query.pageSize) || 10;
