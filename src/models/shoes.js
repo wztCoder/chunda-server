@@ -32,6 +32,10 @@ const shoesSchema = new mongoose.Schema({
     type: String,
     comment: '款式'
   },
+  price: { 
+    type: String,
+    comment: '价格'
+  },
   createTime: { 
     type: Date, 
     default: Date.now,
