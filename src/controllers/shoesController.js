@@ -3,8 +3,9 @@ const shoesService = require('../services/shoesService');
 const shoesController = {
   async getAllShoes(ctx) {
     try {
-      const { page, pageSize } = ctx.query;
-      ctx.body = await shoesService.getAllShoes(page, pageSize);
+      const { page, pageSize,articleNumber, location } = ctx.query;
+      console.log(articleNumber, location);
+      ctx.body = await shoesService.getAllShoes(page, pageSize, { articleNumber, location });
     } catch (error) {
       ctx.status = 500;
       ctx.body = { message: '获取失败', error: error.message };
