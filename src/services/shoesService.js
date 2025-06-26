@@ -1,14 +1,21 @@
 const Shoes = require('../models/shoes');
 
 const shoesService = {
-  async getAllShoes(page = 1, pageSize = 10) {
+  async getAllShoes(page = 1, pageSize = 10, filters = {}) {
     const skip = (page - 1) * pageSize;
+    const query = {};
+
+    if (filters.articleNumber) {
+      query.articleNumber = new RegExp(filters.articleNumber, 'i'); // 支持模糊查询
+    }
+    if (filters.location) {
+      query.location = new RegExp(filters.location, 'i');
+    }
     const [total, list] = await Promise.all([
       Shoes.countDocuments(),
-      Shoes.find().sort({ createTime: -1 }).skip(skip).limit(pageSize)
+      Shoes.find(query).sort({ createTime: -1 }).skip(skip).limit(pageSize)
     ]);
     const totalPage = Math.ceil(total / pageSize);
-    console.log('list',list,'total',totalPage)
     
     return {
       list,
