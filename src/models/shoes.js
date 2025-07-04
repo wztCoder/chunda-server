@@ -13,11 +13,6 @@ const shoesSchema = new mongoose.Schema({
     required: true,
     comment: '货号'
   },
-  size: {
-    type: String,
-    required: true,
-    comment: '尺码'
-  },
   color: {
     type: String,
     required: true,
@@ -42,6 +37,12 @@ const shoesSchema = new mongoose.Schema({
     comment: '创建时间'
   }
 })
+shoesSchema.virtual('sizes', {
+  ref: 'Size',
+  localField: 'id',
+  foreignField: 'shoeId',
+  justOne: false
+});
 // 添加前置钩子来自动生成 ID
 shoesSchema.pre('save', async function(next) {
   if (this.isNew) {

@@ -243,8 +243,28 @@ app.use(router.allowedMethods());
 app.use(shoesRoutes.routes());
 app.use(shoesRoutes.allowedMethods());
 app.use(cors());
+app.use(async (ctx, next) => {
+  try {
+    await next();
+  } catch (err) {
+    // 记录错误日志
+    console.error('Server error:', err);
+    ctx.status = err.statusCode || 500;
+    ctx.body = { error: 'Internal Server Error' };
+  }
+});
+
+// 处理 socket 异常关闭
+app.on('error', (err, ctx) => {
+  if (err.code === 'ECONNRESET') {
+    console.warn('Client connection reset:', err.message);
+    // 可选择性忽略 ECONNRESET，避免进程崩溃
+  } else {
+    console.error('Unhandled server error:', err);
+  }
+});
 // Start server
 const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => {
+app.listen(PORT,'0.0.0.0', () => {
   console.log(`Server running on port ${PORT}`);
 });

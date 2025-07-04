@@ -1,5 +1,5 @@
 const Shoes = require('../models/shoes');
-
+const Size = require('../models/size');
 const shoesService = {
   async getAllShoes(page = 1, pageSize = 10, filters = {}) {
     const skip = (page - 1) * pageSize;
@@ -11,32 +11,62 @@ const shoesService = {
     if (filters.location) {
       query.location = new RegExp(filters.location, 'i');
     }
-    const [total, list] = await Promise.all([
-      Shoes.countDocuments(),
-      Shoes.find(query).sort({ createTime: -1 }).skip(skip).limit(pageSize)
-    ]);
+    if (filters.size) {
+      // New size filter
+      const sizeDocs = await Size.find({ size: filters.size });
+      const shoeIds = sizeDocs.map((s) => s.shoeId);
+      query.id = { $in: shoeIds };
+    }
+    const [total, list] = await Promise.all([Shoes.countDocuments(), Shoes.find(query).populate('sizes').sort({ createTime: -1 }).skip(skip).limit(pageSize)]);
     const totalPage = Math.ceil(total / pageSize);
-    
+
     return {
       list,
-      totalPage
+      totalPage,
     };
   },
 
   getShoesById(id) {
-    return Shoes.findOne({ id: Number(id) });
+    return Shoes.findOne({ id: Number(id) }).populate('sizes');
   },
 
-  createShoes(shoesData) {
+  async createShoes(shoesData) {
     const shoes = new Shoes(shoesData);
-    return shoes.save();
+    const savedShoes = await shoes.save();
+    if (shoesData.sizes && shoesData.sizes.length > 0) {
+      const sizeDocs = shoesData.sizes.map((size) => ({
+        shoeId: savedShoes.id,
+        size: size.size,
+        stock: size.stock || 0,
+      }));
+      await Size.insertMany(sizeDocs);
+    }
+
+     return Shoes.findById(savedShoes._id).populate('sizes');
   },
 
-  updateShoes(id, shoesData) {
-    return Shoes.findOneAndUpdate({ id: Number(id) }, shoesData, { new: true, runValidators: true });
+  async updateShoes(id, shoesData) {
+    // Update shoe info
+    const updatedShoes = await Shoes.findOneAndUpdate({ id: Number(id) }, shoesData, { new: true, runValidators: true });
+
+    // Update sizes if provided
+    if (shoesData.sizes) {
+      await Size.deleteMany({ shoeId: Number(id) });
+      const sizeDocs = shoesData.sizes.map((size) => ({
+        shoeId: Number(id),
+        size: size.size,
+        stock: size.stock || 0,
+      }));
+      await Size.insertMany(sizeDocs);
+    }
+
+    return this.getShoesById(id);
   },
 
-  deleteShoes(id) {
+  async deleteShoes(id) {
+    // Delete sizes first
+    await Size.deleteMany({ shoeId: Number(id) });
+    // Then delete shoe
     return Shoes.findOneAndDelete({ id: Number(id) });
   },
 };

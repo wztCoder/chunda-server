@@ -1,11 +1,8 @@
 const mongoose = require('mongoose');
 
 // 连接到MongoDB，数据库名为 chunda
-mongoose.connect(process.env.MONGO_URI, {
-    dbName: 'chunda',
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-    serverSelectionTimeoutMS: 5000,
+mongoose.connect('mongodb://localhost:27017/chunda', {
+   serverSelectionTimeoutMS: 5000,
     retryWrites: true
 }).then(() => console.log('Connected to MongoDB'))
     .catch(err => console.error('MongoDB connection error:', err));
