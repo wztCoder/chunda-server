@@ -13,19 +13,10 @@ const shoesSchema = new mongoose.Schema({
     required: true,
     comment: '货号'
   },
-  color: {
-    type: String,
-    required: true,
-    comment: '颜色'
-  },
   location: {
     type: String,
     required: true,
     comment: '位置'
-  },
-  style: {
-    type: String,
-    comment: '款式'
   },
   price: { 
     type: String,
