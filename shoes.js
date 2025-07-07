@@ -1,4 +1,4 @@
-module.exports =  [{
+module.exports = [{
   "_id": {
     "$oid": "6861ef57e943c029542a7f0c"
   },

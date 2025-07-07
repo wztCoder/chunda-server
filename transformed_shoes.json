@@ -1,3908 +1,3530 @@
 [
   {
-    "_id": {
-      "$oid": "6861ef57e943c029542a7f0c"
-    },
-    "articleNumber": "8591702/51",
-    "size": "41.42.43",
-    "color": "黑",
-    "location": "男一号",
-    "style": "跟",
-    "price": "248",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 8,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "6861ef57e943c029542a7f0c",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "6861ef57e943c029542a7f0c",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "6861ef57e943c029542a7f0c",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      }
-    ]
+    "_id": 1,
+    "shoeId": 8,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
   },
   {
-    "_id": {
-      "$oid": "6861ff0de943c029542a7f2e"
-    },
-    "articleNumber": "2566563",
-    "size": "38.39.40.41.42.42.43.44",
-    "color": "黑",
-    "location": "男一",
-    "style": "男跟",
-    "price": "248",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 9,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "6861ff0de943c029542a7f2e",
-        "stock": 1,
-        "location": "",
-        "size": "38"
-      },
-      {
-        "shoeId": "6861ff0de943c029542a7f2e",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "6861ff0de943c029542a7f2e",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "6861ff0de943c029542a7f2e",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "6861ff0de943c029542a7f2e",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "6861ff0de943c029542a7f2e",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "6861ff0de943c029542a7f2e",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "6861ff0de943c029542a7f2e",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      }
-    ]
+    "_id": 2,
+    "shoeId": 8,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
   },
   {
-    "_id": {
-      "$oid": "68620025e943c029542a7f4f"
-    },
-    "articleNumber": "19697001",
-    "size": "38.39.40.41.42.42.42.43.43",
-    "color": "黑",
-    "location": "男一号",
-    "style": "男跟",
-    "price": "248",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 10,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68620025e943c029542a7f4f",
-        "stock": 1,
-        "location": "",
-        "size": "38"
-      },
-      {
-        "shoeId": "68620025e943c029542a7f4f",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "68620025e943c029542a7f4f",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "68620025e943c029542a7f4f",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "68620025e943c029542a7f4f",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68620025e943c029542a7f4f",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68620025e943c029542a7f4f",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68620025e943c029542a7f4f",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68620025e943c029542a7f4f",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      }
-    ]
+    "_id": 3,
+    "shoeId": 8,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
   },
   {
-    "_id": {
-      "$oid": "686200a9e943c029542a7f54"
-    },
-    "articleNumber": "2717020/98",
-    "size": "42.40.44.40.37.42.39.38.42.38，43.41.41.44",
-    "color": "黑",
-    "location": "男一号",
-    "style": "男跟",
-    "price": "238",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 11,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "686200a9e943c029542a7f54",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "686200a9e943c029542a7f54",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "686200a9e943c029542a7f54",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      },
-      {
-        "shoeId": "686200a9e943c029542a7f54",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "686200a9e943c029542a7f54",
-        "stock": 1,
-        "location": "",
-        "size": "37"
-      },
-      {
-        "shoeId": "686200a9e943c029542a7f54",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "686200a9e943c029542a7f54",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "686200a9e943c029542a7f54",
-        "stock": 1,
-        "location": "",
-        "size": "38"
-      },
-      {
-        "shoeId": "686200a9e943c029542a7f54",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "686200a9e943c029542a7f54",
-        "stock": 1,
-        "location": "",
-        "size": "38"
-      },
-      {
-        "shoeId": "686200a9e943c029542a7f54",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "686200a9e943c029542a7f54",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "686200a9e943c029542a7f54",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "686200a9e943c029542a7f54",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "6862017ae943c029542a7f62"
-    },
-    "articleNumber": "19697015",
-    "size": "43，40，",
-    "color": "黑",
-    "location": "男一号",
-    "style": "男跟",
-    "price": "298",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 13,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "6862017ae943c029542a7f62",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "6862017ae943c029542a7f62",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "686201e7e943c029542a7f6b"
-    },
-    "articleNumber": "12603033",
+    "_id": 4,
+    "shoeId": 9,
+    "stock": 1,
+    "location": "",
     "size": "38",
-    "color": "黑",
-    "location": "男一号",
-    "style": "男跟",
-    "price": "238",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 14,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "686201e7e943c029542a7f6b",
-        "stock": 1,
-        "location": "",
-        "size": "38"
-      }
-    ]
+    "__v": 0
   },
   {
-    "_id": {
-      "$oid": "6862022ee943c029542a7f70"
-    },
-    "articleNumber": "13697020",
-    "size": "38.44",
-    "color": "黑",
-    "location": "男一号",
-    "style": "男跟",
-    "price": "238",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 15,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "6862022ee943c029542a7f70",
-        "stock": 1,
-        "location": "",
-        "size": "38"
-      },
-      {
-        "shoeId": "6862022ee943c029542a7f70",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      }
-    ]
+    "_id": 5,
+    "shoeId": 9,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
   },
   {
-    "_id": {
-      "$oid": "68620263e943c029542a7f75"
-    },
-    "articleNumber": "1187021",
-    "size": "44",
-    "color": "黑",
-    "location": "男一号",
-    "style": "男跟",
-    "price": "198",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 16,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68620263e943c029542a7f75",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      }
-    ]
+    "_id": 6,
+    "shoeId": 9,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
   },
   {
-    "_id": {
-      "$oid": "68620296e943c029542a7f7a"
-    },
-    "articleNumber": "1387056",
-    "size": "42，43.",
-    "color": "黑",
-    "location": "男一号",
-    "style": "男跟",
-    "price": "198",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 17,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68620296e943c029542a7f7a",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68620296e943c029542a7f7a",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68620346e943c029542a7f83"
-    },
-    "articleNumber": "1987312",
-    "size": "43.41.4042.43.43",
-    "color": "黑",
-    "location": "男一号",
-    "style": "男跟皮鞋",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 18,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68620346e943c029542a7f83",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68620346e943c029542a7f83",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "68620346e943c029542a7f83",
-        "stock": 1,
-        "location": "",
-        "size": "4042"
-      },
-      {
-        "shoeId": "68620346e943c029542a7f83",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68620346e943c029542a7f83",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "686204efe943c029542a7fb3"
-    },
-    "articleNumber": "1825033/981",
-    "size": "39.40.4137",
-    "color": "黑",
-    "location": "男二号",
-    "style": "男单皮休闲",
-    "price": "198",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 19,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "686204efe943c029542a7fb3",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "686204efe943c029542a7fb3",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "686204efe943c029542a7fb3",
-        "stock": 1,
-        "location": "",
-        "size": "4137"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68620541e943c029542a7fb8"
-    },
-    "articleNumber": "2366618",
-    "size": "42.38.",
-    "color": "黑",
-    "location": "男2号",
-    "style": "男浅口休闲",
-    "price": "198",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 20,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68620541e943c029542a7fb8",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68620541e943c029542a7fb8",
-        "stock": 1,
-        "location": "",
-        "size": "38"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "686205f8e943c029542a7fc1"
-    },
-    "articleNumber": "2902310/1",
-    "size": "42.38.42.38.40",
-    "color": "黑",
-    "location": "男2号",
-    "style": "男浅口皮",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 21,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "686205f8e943c029542a7fc1",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "686205f8e943c029542a7fc1",
-        "stock": 1,
-        "location": "",
-        "size": "38"
-      },
-      {
-        "shoeId": "686205f8e943c029542a7fc1",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "686205f8e943c029542a7fc1",
-        "stock": 1,
-        "location": "",
-        "size": "38"
-      },
-      {
-        "shoeId": "686205f8e943c029542a7fc1",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68620662e943c029542a7fcc"
-    },
-    "articleNumber": "2166019",
-    "size": "41.42.",
-    "color": "黑",
-    "location": "男2号",
-    "style": "男浅口皮",
-    "price": "1.248",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 22,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68620662e943c029542a7fcc",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "68620662e943c029542a7fcc",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "686206aae943c029542a7fd3"
-    },
-    "articleNumber": "2966151",
-    "size": "42.42.42.",
-    "color": "黑",
-    "location": "男2号",
-    "style": "男浅口休闲",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 23,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "686206aae943c029542a7fd3",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "686206aae943c029542a7fd3",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "686206aae943c029542a7fd3",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "6862072ce943c029542a7fde"
-    },
-    "articleNumber": "2566526",
-    "size": "39.44.42.38",
-    "color": "黑",
-    "location": "男2号",
-    "style": "男浅口皮",
-    "price": "298",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 24,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "6862072ce943c029542a7fde",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "6862072ce943c029542a7fde",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      },
-      {
-        "shoeId": "6862072ce943c029542a7fde",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "6862072ce943c029542a7fde",
-        "stock": 1,
-        "location": "",
-        "size": "38"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68620777e943c029542a7fe9"
-    },
-    "articleNumber": "2582002",
-    "size": "42.43",
-    "color": "黑",
-    "location": "男2号",
-    "style": "男单皮",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 25,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68620777e943c029542a7fe9",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68620777e943c029542a7fe9",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "686207dae943c029542a7ff4"
-    },
-    "articleNumber": "2966235",
-    "size": "42.41.43.39.44.41.",
-    "color": "黑",
-    "location": "男2号",
-    "style": "男单皮",
-    "price": "198",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 26,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "686207dae943c029542a7ff4",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "686207dae943c029542a7ff4",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "686207dae943c029542a7ff4",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "686207dae943c029542a7ff4",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "686207dae943c029542a7ff4",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      },
-      {
-        "shoeId": "686207dae943c029542a7ff4",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68620829e943c029542a7fff"
-    },
-    "articleNumber": "2966269",
-    "size": "41.42.40.42.",
-    "color": "黑",
-    "location": "男2号",
-    "style": "男单皮",
-    "price": "298",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 27,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68620829e943c029542a7fff",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "68620829e943c029542a7fff",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68620829e943c029542a7fff",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "68620829e943c029542a7fff",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68620fa0e943c029542a8042"
-    },
-    "articleNumber": "2207016",
-    "size": "42.42.42.42.42.42.42.43.44.41.9.9.9.1.1.2.2.2.2.3",
-    "color": "黑",
-    "location": "男3号",
-    "style": "无代",
-    "price": "198",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 28,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68620fa0e943c029542a8042",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68620fa0e943c029542a8042",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68620fa0e943c029542a8042",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68620fa0e943c029542a8042",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68620fa0e943c029542a8042",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68620fa0e943c029542a8042",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68620fa0e943c029542a8042",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68620fa0e943c029542a8042",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68620fa0e943c029542a8042",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      },
-      {
-        "shoeId": "68620fa0e943c029542a8042",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "68620fa0e943c029542a8042",
-        "stock": 1,
-        "location": "",
-        "size": "9"
-      },
-      {
-        "shoeId": "68620fa0e943c029542a8042",
-        "stock": 1,
-        "location": "",
-        "size": "9"
-      },
-      {
-        "shoeId": "68620fa0e943c029542a8042",
-        "stock": 1,
-        "location": "",
-        "size": "9"
-      },
-      {
-        "shoeId": "68620fa0e943c029542a8042",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "68620fa0e943c029542a8042",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "68620fa0e943c029542a8042",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "68620fa0e943c029542a8042",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "68620fa0e943c029542a8042",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "68620fa0e943c029542a8042",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "68620fa0e943c029542a8042",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "686210d5e943c029542a8065"
-    },
-    "articleNumber": "2902307",
-    "size": "42.42.42.42.39.39.39.39.9.2.4.2.2.2.3.1.1.",
-    "color": "黑",
-    "location": "男3号",
-    "style": "男无代休闲",
-    "price": "238",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 29,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "686210d5e943c029542a8065",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "686210d5e943c029542a8065",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "686210d5e943c029542a8065",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "686210d5e943c029542a8065",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "686210d5e943c029542a8065",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "686210d5e943c029542a8065",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "686210d5e943c029542a8065",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "686210d5e943c029542a8065",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "686210d5e943c029542a8065",
-        "stock": 1,
-        "location": "",
-        "size": "9"
-      },
-      {
-        "shoeId": "686210d5e943c029542a8065",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "686210d5e943c029542a8065",
-        "stock": 1,
-        "location": "",
-        "size": "4"
-      },
-      {
-        "shoeId": "686210d5e943c029542a8065",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "686210d5e943c029542a8065",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "686210d5e943c029542a8065",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "686210d5e943c029542a8065",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "686210d5e943c029542a8065",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "686210d5e943c029542a8065",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "6862115ce943c029542a806a"
-    },
-    "articleNumber": "2902308",
-    "size": "39.42.43.44，9.1.3.1.2.2.",
-    "color": "黑",
-    "location": "男3号",
-    "style": "男无代厚皮",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 30,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "6862115ce943c029542a806a",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "6862115ce943c029542a806a",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "6862115ce943c029542a806a",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "6862115ce943c029542a806a",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      },
-      {
-        "shoeId": "6862115ce943c029542a806a",
-        "stock": 1,
-        "location": "",
-        "size": "9"
-      },
-      {
-        "shoeId": "6862115ce943c029542a806a",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "6862115ce943c029542a806a",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "6862115ce943c029542a806a",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "6862115ce943c029542a806a",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "6862115ce943c029542a806a",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "686211c0e943c029542a806f"
-    },
-    "articleNumber": "2302068",
-    "size": "42.42.42.42.44.2.2.2.2.",
-    "color": "黑",
-    "location": "男3号",
-    "style": "男无代厚皮",
-    "price": "1638",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 31,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "686211c0e943c029542a806f",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "686211c0e943c029542a806f",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "686211c0e943c029542a806f",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "686211c0e943c029542a806f",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "686211c0e943c029542a806f",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      },
-      {
-        "shoeId": "686211c0e943c029542a806f",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "686211c0e943c029542a806f",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "686211c0e943c029542a806f",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "686211c0e943c029542a806f",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68621213e943c029542a8074"
-    },
-    "articleNumber": "2253088",
-    "size": "42.42",
-    "color": "黑",
-    "location": "男3号",
-    "style": "男厚皮无代",
-    "price": "198",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 32,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68621213e943c029542a8074",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68621213e943c029542a8074",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "6862125ee943c029542a8079"
-    },
-    "articleNumber": "1321017",
-    "size": "43.43.43.43.43.44",
-    "color": "黑",
-    "location": "男3号",
-    "style": "男无代厚皮",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 33,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "6862125ee943c029542a8079",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "6862125ee943c029542a8079",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "6862125ee943c029542a8079",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "6862125ee943c029542a8079",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "6862125ee943c029542a8079",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "6862125ee943c029542a8079",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "686212c9e943c029542a807e"
-    },
-    "articleNumber": "2307052",
-    "size": "39.39.39.42.43.9.9.",
-    "color": "黑",
-    "location": "男3号",
-    "style": "男无代厚皮",
-    "price": "198",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 34,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "686212c9e943c029542a807e",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "686212c9e943c029542a807e",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "686212c9e943c029542a807e",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "686212c9e943c029542a807e",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "686212c9e943c029542a807e",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "686212c9e943c029542a807e",
-        "stock": 1,
-        "location": "",
-        "size": "9"
-      },
-      {
-        "shoeId": "686212c9e943c029542a807e",
-        "stock": 1,
-        "location": "",
-        "size": "9"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68621336e943c029542a8083"
-    },
-    "articleNumber": "2353059",
-    "size": "39.41.42.44.44..2.2",
-    "color": "黑",
-    "location": "男3号",
-    "style": "男无代厚皮",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 35,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68621336e943c029542a8083",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "68621336e943c029542a8083",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "68621336e943c029542a8083",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68621336e943c029542a8083",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      },
-      {
-        "shoeId": "68621336e943c029542a8083",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      },
-      {
-        "shoeId": "68621336e943c029542a8083",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "68621336e943c029542a8083",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "6862138ce943c029542a8088"
-    },
-    "articleNumber": "2995302",
-    "size": "39.41.42.43.1.2",
-    "color": "黑",
-    "location": "男3号",
-    "style": "男无代厚皮",
-    "price": "238",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 36,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "6862138ce943c029542a8088",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "6862138ce943c029542a8088",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "6862138ce943c029542a8088",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "6862138ce943c029542a8088",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "6862138ce943c029542a8088",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "6862138ce943c029542a8088",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "686213e7e943c029542a808f"
-    },
-    "articleNumber": "12697006",
-    "size": "39.42.44.9.2.2.4",
-    "color": "黑",
-    "location": "男3号",
-    "style": "男无代厚",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 37,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "686213e7e943c029542a808f",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "686213e7e943c029542a808f",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "686213e7e943c029542a808f",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      },
-      {
-        "shoeId": "686213e7e943c029542a808f",
-        "stock": 1,
-        "location": "",
-        "size": "9"
-      },
-      {
-        "shoeId": "686213e7e943c029542a808f",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "686213e7e943c029542a808f",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "686213e7e943c029542a808f",
-        "stock": 1,
-        "location": "",
-        "size": "4"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68621bfce943c029542a8119"
-    },
-    "articleNumber": "2395032",
-    "size": "39.43.43.9.9.2.2",
-    "color": "黑",
-    "location": "男3号",
-    "style": "男无代厚休闲",
-    "price": "238",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 38,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68621bfce943c029542a8119",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "68621bfce943c029542a8119",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68621bfce943c029542a8119",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68621bfce943c029542a8119",
-        "stock": 1,
-        "location": "",
-        "size": "9"
-      },
-      {
-        "shoeId": "68621bfce943c029542a8119",
-        "stock": 1,
-        "location": "",
-        "size": "9"
-      },
-      {
-        "shoeId": "68621bfce943c029542a8119",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "68621bfce943c029542a8119",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68621ca3e943c029542a811e"
-    },
-    "articleNumber": "2983011",
-    "size": "338.39.40.40.42.44.44.9.0.0.1.2.2.2.2.3.1.0.3.",
-    "color": "黑",
-    "location": "男3号",
-    "style": "男无代休闲厚皮",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 39,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68621ca3e943c029542a811e",
-        "stock": 1,
-        "location": "",
-        "size": "338"
-      },
-      {
-        "shoeId": "68621ca3e943c029542a811e",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "68621ca3e943c029542a811e",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "68621ca3e943c029542a811e",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "68621ca3e943c029542a811e",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68621ca3e943c029542a811e",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      },
-      {
-        "shoeId": "68621ca3e943c029542a811e",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      },
-      {
-        "shoeId": "68621ca3e943c029542a811e",
-        "stock": 1,
-        "location": "",
-        "size": "9"
-      },
-      {
-        "shoeId": "68621ca3e943c029542a811e",
-        "stock": 1,
-        "location": "",
-        "size": "0"
-      },
-      {
-        "shoeId": "68621ca3e943c029542a811e",
-        "stock": 1,
-        "location": "",
-        "size": "0"
-      },
-      {
-        "shoeId": "68621ca3e943c029542a811e",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "68621ca3e943c029542a811e",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "68621ca3e943c029542a811e",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "68621ca3e943c029542a811e",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "68621ca3e943c029542a811e",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "68621ca3e943c029542a811e",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68621ca3e943c029542a811e",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "68621ca3e943c029542a811e",
-        "stock": 1,
-        "location": "",
-        "size": "0"
-      },
-      {
-        "shoeId": "68621ca3e943c029542a811e",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68621d03e943c029542a8129"
-    },
-    "articleNumber": "15697009",
-    "size": "39.40.41.42.43.9.0.1.1.2",
-    "color": "黑",
-    "location": "男3号",
-    "style": "男无代厚休闲皮",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 40,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68621d03e943c029542a8129",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "68621d03e943c029542a8129",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "68621d03e943c029542a8129",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "68621d03e943c029542a8129",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68621d03e943c029542a8129",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68621d03e943c029542a8129",
-        "stock": 1,
-        "location": "",
-        "size": "9"
-      },
-      {
-        "shoeId": "68621d03e943c029542a8129",
-        "stock": 1,
-        "location": "",
-        "size": "0"
-      },
-      {
-        "shoeId": "68621d03e943c029542a8129",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "68621d03e943c029542a8129",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "68621d03e943c029542a8129",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68621d5de943c029542a8130"
-    },
-    "articleNumber": "2983026",
-    "size": "43.1",
-    "color": "黑",
-    "location": "男3号",
-    "style": "男无代厚皮休闲",
-    "price": "238",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 41,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68621d5de943c029542a8130",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68621d5de943c029542a8130",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68621dc1e943c029542a8139"
-    },
-    "articleNumber": "2983005",
-    "size": "38.39.40.42.43.4442..1.2.2",
-    "color": "黑",
-    "location": "男3号",
-    "style": "男无代厚休闲",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 42,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68621dc1e943c029542a8139",
-        "stock": 1,
-        "location": "",
-        "size": "38"
-      },
-      {
-        "shoeId": "68621dc1e943c029542a8139",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "68621dc1e943c029542a8139",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "68621dc1e943c029542a8139",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68621dc1e943c029542a8139",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68621dc1e943c029542a8139",
-        "stock": 1,
-        "location": "",
-        "size": "4442"
-      },
-      {
-        "shoeId": "68621dc1e943c029542a8139",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "68621dc1e943c029542a8139",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "68621dc1e943c029542a8139",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68621e05e943c029542a8140"
-    },
-    "articleNumber": "1931301",
-    "size": "38.41.43.1.2",
-    "color": "黑",
-    "location": "男3号",
-    "style": "男无代厚休闲",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 43,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68621e05e943c029542a8140",
-        "stock": 1,
-        "location": "",
-        "size": "38"
-      },
-      {
-        "shoeId": "68621e05e943c029542a8140",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "68621e05e943c029542a8140",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68621e05e943c029542a8140",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "68621e05e943c029542a8140",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68621e63e943c029542a8147"
-    },
-    "articleNumber": "2502011",
-    "size": "39.40.42.43.44.40.0.0.1.1.2.2.",
-    "color": "黑",
-    "location": "男3号",
-    "style": "男无代厚休闲",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 44,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68621e63e943c029542a8147",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "68621e63e943c029542a8147",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "68621e63e943c029542a8147",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68621e63e943c029542a8147",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68621e63e943c029542a8147",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      },
-      {
-        "shoeId": "68621e63e943c029542a8147",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "68621e63e943c029542a8147",
-        "stock": 1,
-        "location": "",
-        "size": "0"
-      },
-      {
-        "shoeId": "68621e63e943c029542a8147",
-        "stock": 1,
-        "location": "",
-        "size": "0"
-      },
-      {
-        "shoeId": "68621e63e943c029542a8147",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "68621e63e943c029542a8147",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "68621e63e943c029542a8147",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "68621e63e943c029542a8147",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68621ed8e943c029542a8152"
-    },
-    "articleNumber": "2322002",
-    "size": "44.43.",
-    "color": "黑",
-    "location": "男3号",
-    "style": "单皮",
-    "price": "298",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 45,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68621ed8e943c029542a8152",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      },
-      {
-        "shoeId": "68621ed8e943c029542a8152",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68624f11e943c029542a82e2"
-    },
-    "articleNumber": "2982307",
-    "size": "41.41.40.",
-    "color": "黑",
-    "location": "男6号",
-    "style": "男代厚休闲",
-    "price": "238",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 46,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68624f11e943c029542a82e2",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "68624f11e943c029542a82e2",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "68624f11e943c029542a82e2",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68624f5ae943c029542a82e7"
-    },
-    "articleNumber": "2353058",
-    "size": "41.4",
-    "color": "黑",
-    "location": "男6号",
-    "style": "男系代厚休闲",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 47,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68624f5ae943c029542a82e7",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "68624f5ae943c029542a82e7",
-        "stock": 1,
-        "location": "",
-        "size": "4"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68624fa5e943c029542a82ec"
-    },
-    "articleNumber": "2383020",
-    "size": "38.42.",
-    "color": "黑",
-    "location": "男6",
-    "style": "男代厚休闲",
-    "price": "238",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 48,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68624fa5e943c029542a82ec",
-        "stock": 1,
-        "location": "",
-        "size": "38"
-      },
-      {
-        "shoeId": "68624fa5e943c029542a82ec",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68624fdde943c029542a82f1"
-    },
-    "articleNumber": "2353056",
-    "size": "41.41",
-    "color": "黑",
-    "location": "男6号",
-    "style": "男厚代休闲",
-    "price": "230",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 49,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68624fdde943c029542a82f1",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "68624fdde943c029542a82f1",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "6862500ee943c029542a82f6"
-    },
-    "articleNumber": "2953366",
+    "_id": 7,
+    "shoeId": 9,
+    "stock": 1,
+    "location": "",
     "size": "41",
-    "color": "黑",
-    "location": "男6号",
-    "style": "男代厚休闲",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 50,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "6862500ee943c029542a82f6",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      }
-    ]
+    "__v": 0
   },
   {
-    "_id": {
-      "$oid": "686250d4e943c029542a82fd"
-    },
-    "articleNumber": "19720309",
-    "size": "44.，43.41",
-    "color": "黑",
-    "location": "男6",
-    "style": "男代休闲",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 51,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "686250d4e943c029542a82fd",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      },
-      {
-        "shoeId": "686250d4e943c029542a82fd",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "686250d4e943c029542a82fd",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      }
-    ]
+    "_id": 8,
+    "shoeId": 9,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
   },
   {
-    "_id": {
-      "$oid": "6862512be943c029542a8302"
-    },
-    "articleNumber": "2103012",
+    "_id": 9,
+    "shoeId": 9,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 10,
+    "shoeId": 9,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 11,
+    "shoeId": 9,
+    "stock": 1,
+    "location": "",
     "size": "44",
-    "color": "黑",
-    "location": "男6",
-    "style": "男代皮",
-    "price": "26",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 52,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "6862512be943c029542a8302",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      }
-    ]
+    "__v": 0
   },
   {
-    "_id": {
-      "$oid": "68625196e943c029542a8307"
-    },
-    "articleNumber": "2302110",
-    "size": "42.41.40.40..1.9.1.2.2",
-    "color": "黑",
-    "location": "男6",
-    "style": "男代厚",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 53,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68625196e943c029542a8307",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68625196e943c029542a8307",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "68625196e943c029542a8307",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "68625196e943c029542a8307",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "68625196e943c029542a8307",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "68625196e943c029542a8307",
-        "stock": 1,
-        "location": "",
-        "size": "9"
-      },
-      {
-        "shoeId": "68625196e943c029542a8307",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "68625196e943c029542a8307",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "68625196e943c029542a8307",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      }
-    ]
+    "_id": 12,
+    "shoeId": 10,
+    "stock": 1,
+    "location": "",
+    "size": "38",
+    "__v": 0
   },
   {
-    "_id": {
-      "$oid": "686252c1e943c029542a8312"
-    },
-    "articleNumber": "2207017",
-    "size": "42...42.44",
-    "color": "黑",
-    "location": "男6",
-    "style": "男代厚休闲",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 54,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "686252c1e943c029542a8312",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "686252c1e943c029542a8312",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "686252c1e943c029542a8312",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      }
-    ]
+    "_id": 13,
+    "shoeId": 10,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
   },
   {
-    "_id": {
-      "$oid": "68626138e943c029542a8359"
-    },
-    "articleNumber": "19558013",
-    "size": "39.40.41.41.43.43.0.1.3",
-    "color": "黑",
-    "location": "男5号",
-    "style": "男厚运动",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 55,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68626138e943c029542a8359",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "68626138e943c029542a8359",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "68626138e943c029542a8359",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "68626138e943c029542a8359",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "68626138e943c029542a8359",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68626138e943c029542a8359",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68626138e943c029542a8359",
-        "stock": 1,
-        "location": "",
-        "size": "0"
-      },
-      {
-        "shoeId": "68626138e943c029542a8359",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "68626138e943c029542a8359",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      }
-    ]
+    "_id": 14,
+    "shoeId": 10,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
   },
   {
-    "_id": {
-      "$oid": "686261f7e943c029542a8360"
-    },
-    "articleNumber": "19697033",
-    "size": "39.43.9",
-    "color": "卡",
-    "location": "男5号",
-    "style": "男厚运动",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 56,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "686261f7e943c029542a8360",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "686261f7e943c029542a8360",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "686261f7e943c029542a8360",
-        "stock": 1,
-        "location": "",
-        "size": "9"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "6862624ee943c029542a8367"
-    },
-    "articleNumber": "19381027",
-    "size": "38.43.41.41.40",
-    "color": "卡",
-    "location": "男5号",
-    "style": "男厚运动",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 57,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "6862624ee943c029542a8367",
-        "stock": 1,
-        "location": "",
-        "size": "38"
-      },
-      {
-        "shoeId": "6862624ee943c029542a8367",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "6862624ee943c029542a8367",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "6862624ee943c029542a8367",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "6862624ee943c029542a8367",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68626914e943c029542a8390"
-    },
-    "articleNumber": "2582005",
-    "size": "42.44.44.40.42.44.39.38.43.43.42，2.2.2.2.1.1.2.2",
-    "color": "里",
-    "location": "男5号",
-    "style": "男运动厚",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 58,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68626914e943c029542a8390",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68626914e943c029542a8390",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      },
-      {
-        "shoeId": "68626914e943c029542a8390",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      },
-      {
-        "shoeId": "68626914e943c029542a8390",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "68626914e943c029542a8390",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68626914e943c029542a8390",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      },
-      {
-        "shoeId": "68626914e943c029542a8390",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "68626914e943c029542a8390",
-        "stock": 1,
-        "location": "",
-        "size": "38"
-      },
-      {
-        "shoeId": "68626914e943c029542a8390",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68626914e943c029542a8390",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68626914e943c029542a8390",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68626914e943c029542a8390",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "68626914e943c029542a8390",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "68626914e943c029542a8390",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "68626914e943c029542a8390",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "68626914e943c029542a8390",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "68626914e943c029542a8390",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "68626914e943c029542a8390",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "68626914e943c029542a8390",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68626976e943c029542a8397"
-    },
-    "articleNumber": "19558031",
-    "size": "40.40.43.38，3",
-    "color": "克",
-    "location": "男5号",
-    "style": "男厚运动",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 59,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68626976e943c029542a8397",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "68626976e943c029542a8397",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "68626976e943c029542a8397",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68626976e943c029542a8397",
-        "stock": 1,
-        "location": "",
-        "size": "38"
-      },
-      {
-        "shoeId": "68626976e943c029542a8397",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "686269d8e943c029542a839c"
-    },
-    "articleNumber": "19381005",
-    "size": "40.43.43.44.",
-    "color": "克",
-    "location": "男5",
-    "style": "男厚运动",
-    "price": "298",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 60,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "686269d8e943c029542a839c",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "686269d8e943c029542a839c",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "686269d8e943c029542a839c",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "686269d8e943c029542a839c",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68626a51e943c029542a83a1"
-    },
-    "articleNumber": "2903302",
-    "size": "39.39.43.39.43.43，8.9.4.",
-    "color": "克",
-    "location": "男5号",
-    "style": "男厚运动",
-    "price": "298",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 61,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68626a51e943c029542a83a1",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "68626a51e943c029542a83a1",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "68626a51e943c029542a83a1",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68626a51e943c029542a83a1",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "68626a51e943c029542a83a1",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68626a51e943c029542a83a1",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68626a51e943c029542a83a1",
-        "stock": 1,
-        "location": "",
-        "size": "8"
-      },
-      {
-        "shoeId": "68626a51e943c029542a83a1",
-        "stock": 1,
-        "location": "",
-        "size": "9"
-      },
-      {
-        "shoeId": "68626a51e943c029542a83a1",
-        "stock": 1,
-        "location": "",
-        "size": "4"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68626b08e943c029542a83a6"
-    },
-    "articleNumber": "2395050",
-    "size": "39.39.43.39.43.43.1.3.1.3.3.3.3.3.3.1.9.9.9.1.3.4.8.3.3.3.4.3.3.3.3.3.3.3.3.3..4",
-    "color": "克",
-    "location": "男5号",
-    "style": "男厚运动",
-    "price": "198",
-    "createTime": {
-      "$date": "2025-06-30T00:00:00.000Z"
-    },
-    "id": 62,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "9"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "9"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "9"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "4"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "8"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "4"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68626b08e943c029542a83a6",
-        "stock": 1,
-        "location": "",
-        "size": "4"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68636c69e943c029542a848b"
-    },
-    "articleNumber": "2903307",
-    "size": "40.43.44.0.1.2.2.2.3.3.4",
-    "color": "黑",
-    "location": "男5号",
-    "style": "男厚运动休闲",
-    "price": "2198",
-    "createTime": {
-      "$date": "2025-07-01T00:00:00.000Z"
-    },
-    "id": 63,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68636c69e943c029542a848b",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "68636c69e943c029542a848b",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68636c69e943c029542a848b",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      },
-      {
-        "shoeId": "68636c69e943c029542a848b",
-        "stock": 1,
-        "location": "",
-        "size": "0"
-      },
-      {
-        "shoeId": "68636c69e943c029542a848b",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "68636c69e943c029542a848b",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "68636c69e943c029542a848b",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "68636c69e943c029542a848b",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "68636c69e943c029542a848b",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68636c69e943c029542a848b",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68636c69e943c029542a848b",
-        "stock": 1,
-        "location": "",
-        "size": "4"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68636cc8e943c029542a8490"
-    },
-    "articleNumber": "1389005",
-    "size": "40.43",
-    "color": "克",
-    "location": "男5号",
-    "style": "男厚运动",
-    "price": "198",
-    "createTime": {
-      "$date": "2025-07-01T00:00:00.000Z"
-    },
-    "id": 64,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68636cc8e943c029542a8490",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "68636cc8e943c029542a8490",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68636d18e943c029542a8495"
-    },
-    "articleNumber": "1989303",
-    "size": "41.42.43",
-    "color": "克",
-    "location": "男5号",
-    "style": "男厚运动",
-    "price": "238",
-    "createTime": {
-      "$date": "2025-07-01T00:00:00.000Z"
-    },
-    "id": 65,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68636d18e943c029542a8495",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "68636d18e943c029542a8495",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68636d18e943c029542a8495",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68636d96e943c029542a849a"
-    },
-    "articleNumber": "19381009",
-    "size": "39.41.42.42.42.，1.1.2.2.",
-    "color": "克",
-    "location": "男5号",
-    "style": "男厚运动",
-    "price": "198",
-    "createTime": {
-      "$date": "2025-07-01T00:00:00.000Z"
-    },
-    "id": 66,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68636d96e943c029542a849a",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "68636d96e943c029542a849a",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "68636d96e943c029542a849a",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68636d96e943c029542a849a",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68636d96e943c029542a849a",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68636d96e943c029542a849a",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "68636d96e943c029542a849a",
-        "stock": 1,
-        "location": "",
-        "size": "1"
-      },
-      {
-        "shoeId": "68636d96e943c029542a849a",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "68636d96e943c029542a849a",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68636df1e943c029542a849f"
-    },
-    "articleNumber": "2999305",
-    "size": "39.40.40.41.42.42.43.2.2",
-    "color": "克",
-    "location": "男5号",
-    "style": "男厚运动",
-    "price": "238",
-    "createTime": {
-      "$date": "2025-07-01T00:00:00.000Z"
-    },
-    "id": 67,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68636df1e943c029542a849f",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "68636df1e943c029542a849f",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "68636df1e943c029542a849f",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "68636df1e943c029542a849f",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "68636df1e943c029542a849f",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68636df1e943c029542a849f",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68636df1e943c029542a849f",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68636df1e943c029542a849f",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      },
-      {
-        "shoeId": "68636df1e943c029542a849f",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68636e34e943c029542a84a4"
-    },
-    "articleNumber": "15138001",
-    "size": "40.41.42.42.42.",
-    "color": "克",
-    "location": "男5号",
-    "style": "男厚运动",
-    "price": "198",
-    "createTime": {
-      "$date": "2025-07-01T00:00:00.000Z"
-    },
-    "id": 68,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68636e34e943c029542a84a4",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "68636e34e943c029542a84a4",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "68636e34e943c029542a84a4",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68636e34e943c029542a84a4",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68636e34e943c029542a84a4",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68636e87e943c029542a84a9"
-    },
-    "articleNumber": "2599006",
-    "size": "38.39.40.42.43.446",
-    "color": "克",
-    "location": "男5号",
-    "style": "男厚运动",
-    "price": "266",
-    "createTime": {
-      "$date": "2025-07-01T00:00:00.000Z"
-    },
-    "id": 69,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68636e87e943c029542a84a9",
-        "stock": 1,
-        "location": "",
-        "size": "38"
-      },
-      {
-        "shoeId": "68636e87e943c029542a84a9",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "68636e87e943c029542a84a9",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      },
-      {
-        "shoeId": "68636e87e943c029542a84a9",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68636e87e943c029542a84a9",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68636e87e943c029542a84a9",
-        "stock": 1,
-        "location": "",
-        "size": "446"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68636ef0e943c029542a84ae"
-    },
-    "articleNumber": "13759002",
-    "size": "43.43.43.43.44.38.43.42.39.43.44.0.4.3.4.3.2",
-    "color": "克",
-    "location": "男5号",
-    "style": "男厚运动",
-    "price": "238",
-    "createTime": {
-      "$date": "2025-07-01T00:00:00.000Z"
-    },
-    "id": 70,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68636ef0e943c029542a84ae",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68636ef0e943c029542a84ae",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68636ef0e943c029542a84ae",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68636ef0e943c029542a84ae",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68636ef0e943c029542a84ae",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      },
-      {
-        "shoeId": "68636ef0e943c029542a84ae",
-        "stock": 1,
-        "location": "",
-        "size": "38"
-      },
-      {
-        "shoeId": "68636ef0e943c029542a84ae",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68636ef0e943c029542a84ae",
-        "stock": 1,
-        "location": "",
-        "size": "42"
-      },
-      {
-        "shoeId": "68636ef0e943c029542a84ae",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "68636ef0e943c029542a84ae",
-        "stock": 1,
-        "location": "",
-        "size": "43"
-      },
-      {
-        "shoeId": "68636ef0e943c029542a84ae",
-        "stock": 1,
-        "location": "",
-        "size": "44"
-      },
-      {
-        "shoeId": "68636ef0e943c029542a84ae",
-        "stock": 1,
-        "location": "",
-        "size": "0"
-      },
-      {
-        "shoeId": "68636ef0e943c029542a84ae",
-        "stock": 1,
-        "location": "",
-        "size": "4"
-      },
-      {
-        "shoeId": "68636ef0e943c029542a84ae",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68636ef0e943c029542a84ae",
-        "stock": 1,
-        "location": "",
-        "size": "4"
-      },
-      {
-        "shoeId": "68636ef0e943c029542a84ae",
-        "stock": 1,
-        "location": "",
-        "size": "3"
-      },
-      {
-        "shoeId": "68636ef0e943c029542a84ae",
-        "stock": 1,
-        "location": "",
-        "size": "2"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68636f93e943c029542a84b5"
-    },
-    "articleNumber": "10201019",
-    "size": "383839.41.41",
-    "color": "克",
-    "location": "男5号",
-    "style": "男厚运动",
-    "price": "238",
-    "createTime": {
-      "$date": "2025-07-01T00:00:00.000Z"
-    },
-    "id": 71,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68636f93e943c029542a84b5",
-        "stock": 1,
-        "location": "",
-        "size": "383839"
-      },
-      {
-        "shoeId": "68636f93e943c029542a84b5",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "68636f93e943c029542a84b5",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "68651847e943c029542a868a"
-    },
-    "articleNumber": "2906559",
+    "_id": 15,
+    "shoeId": 10,
+    "stock": 1,
+    "location": "",
     "size": "41",
-    "color": "克",
-    "location": "女上",
-    "style": "女靴子特大",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-07-02T00:00:00.000Z"
-    },
-    "id": 72,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "68651847e943c029542a868a",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      }
-    ]
+    "__v": 0
   },
   {
-    "_id": {
-      "$oid": "6865189de943c029542a868f"
-    },
-    "articleNumber": "19238316",
-    "size": "36.38.39.39.37.39",
-    "color": "克",
-    "location": "女顶层",
-    "style": "女靴",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-07-02T00:00:00.000Z"
-    },
-    "id": 73,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "6865189de943c029542a868f",
-        "stock": 1,
-        "location": "",
-        "size": "36"
-      },
-      {
-        "shoeId": "6865189de943c029542a868f",
-        "stock": 1,
-        "location": "",
-        "size": "38"
-      },
-      {
-        "shoeId": "6865189de943c029542a868f",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "6865189de943c029542a868f",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "6865189de943c029542a868f",
-        "stock": 1,
-        "location": "",
-        "size": "37"
-      },
-      {
-        "shoeId": "6865189de943c029542a868f",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      }
-    ]
+    "_id": 16,
+    "shoeId": 10,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
   },
   {
-    "_id": {
-      "$oid": "686518cbe943c029542a8694"
-    },
-    "articleNumber": "3932316",
-    "size": "38.40",
-    "color": "克",
-    "location": "女顶层",
-    "style": "女靴",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-07-02T00:00:00.000Z"
-    },
-    "id": 74,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "686518cbe943c029542a8694",
-        "stock": 1,
-        "location": "",
-        "size": "38"
-      },
-      {
-        "shoeId": "686518cbe943c029542a8694",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      }
-    ]
+    "_id": 17,
+    "shoeId": 10,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
   },
   {
-    "_id": {
-      "$oid": "6865191ae943c029542a86a5"
-    },
-    "articleNumber": "19238306",
-    "size": "35.39.38",
-    "color": "克",
-    "location": "女顶层",
-    "style": "女靴",
-    "price": "268",
-    "createTime": {
-      "$date": "2025-07-02T00:00:00.000Z"
-    },
-    "id": 75,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "6865191ae943c029542a86a5",
-        "stock": 1,
-        "location": "",
-        "size": "35"
-      },
-      {
-        "shoeId": "6865191ae943c029542a86a5",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "6865191ae943c029542a86a5",
-        "stock": 1,
-        "location": "",
-        "size": "38"
-      }
-    ]
+    "_id": 18,
+    "shoeId": 10,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
   },
   {
-    "_id": {
-      "$oid": "686a5984e943c029542a89fc"
-    },
-    "articleNumber": "19737302",
-    "size": "35.39.37.38.40",
-    "color": "白",
-    "location": "柜台后",
-    "style": "女皮面运动",
-    "price": "198",
-    "createTime": {
-      "$date": "2025-07-06T00:00:00.000Z"
-    },
-    "id": 76,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "686a5984e943c029542a89fc",
-        "stock": 1,
-        "location": "",
-        "size": "35"
-      },
-      {
-        "shoeId": "686a5984e943c029542a89fc",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "686a5984e943c029542a89fc",
-        "stock": 1,
-        "location": "",
-        "size": "37"
-      },
-      {
-        "shoeId": "686a5984e943c029542a89fc",
-        "stock": 1,
-        "location": "",
-        "size": "38"
-      },
-      {
-        "shoeId": "686a5984e943c029542a89fc",
-        "stock": 1,
-        "location": "",
-        "size": "40"
-      }
-    ]
+    "_id": 19,
+    "shoeId": 10,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
   },
   {
-    "_id": {
-      "$oid": "686a5a30e943c029542a8a03"
-    },
-    "articleNumber": "15256003",
-    "size": "37.35.34.39.36",
-    "color": "银色",
-    "location": "柜台背后",
-    "style": "女织物厚底运动",
-    "price": "298",
-    "createTime": {
-      "$date": "2025-07-06T00:00:00.000Z"
-    },
-    "id": 77,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "686a5a30e943c029542a8a03",
-        "stock": 1,
-        "location": "",
-        "size": "37"
-      },
-      {
-        "shoeId": "686a5a30e943c029542a8a03",
-        "stock": 1,
-        "location": "",
-        "size": "35"
-      },
-      {
-        "shoeId": "686a5a30e943c029542a8a03",
-        "stock": 1,
-        "location": "",
-        "size": "34"
-      },
-      {
-        "shoeId": "686a5a30e943c029542a8a03",
-        "stock": 1,
-        "location": "",
-        "size": "39"
-      },
-      {
-        "shoeId": "686a5a30e943c029542a8a03",
-        "stock": 1,
-        "location": "",
-        "size": "36"
-      }
-    ]
+    "_id": 20,
+    "shoeId": 10,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
   },
   {
-    "_id": {
-      "$oid": "686a5a97e943c029542a8a08"
-    },
-    "articleNumber": "15210001T特大",
-    "size": "41，41",
-    "color": "奶茶",
-    "location": "柜台后",
-    "style": "女皮面运动",
-    "price": "298",
-    "createTime": {
-      "$date": "2025-07-06T00:00:00.000Z"
-    },
-    "id": 78,
-    "__v": 0,
-    "sizes": [
-      {
-        "shoeId": "686a5a97e943c029542a8a08",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      },
-      {
-        "shoeId": "686a5a97e943c029542a8a08",
-        "stock": 1,
-        "location": "",
-        "size": "41"
-      }
-    ]
+    "_id": 21,
+    "shoeId": 11,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 22,
+    "shoeId": 11,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 23,
+    "shoeId": 11,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 24,
+    "shoeId": 11,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 25,
+    "shoeId": 11,
+    "stock": 1,
+    "location": "",
+    "size": "37",
+    "__v": 0
+  },
+  {
+    "_id": 26,
+    "shoeId": 11,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 27,
+    "shoeId": 11,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 28,
+    "shoeId": 11,
+    "stock": 1,
+    "location": "",
+    "size": "38",
+    "__v": 0
+  },
+  {
+    "_id": 29,
+    "shoeId": 11,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 30,
+    "shoeId": 11,
+    "stock": 1,
+    "location": "",
+    "size": "38",
+    "__v": 0
+  },
+  {
+    "_id": 31,
+    "shoeId": 11,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 32,
+    "shoeId": 11,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 33,
+    "shoeId": 11,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 34,
+    "shoeId": 11,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 35,
+    "shoeId": 13,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 36,
+    "shoeId": 13,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 37,
+    "shoeId": 14,
+    "stock": 1,
+    "location": "",
+    "size": "38",
+    "__v": 0
+  },
+  {
+    "_id": 38,
+    "shoeId": 15,
+    "stock": 1,
+    "location": "",
+    "size": "38",
+    "__v": 0
+  },
+  {
+    "_id": 39,
+    "shoeId": 15,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 40,
+    "shoeId": 16,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 41,
+    "shoeId": 17,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 42,
+    "shoeId": 17,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 43,
+    "shoeId": 18,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 44,
+    "shoeId": 18,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 45,
+    "shoeId": 18,
+    "stock": 1,
+    "location": "",
+    "size": "4042",
+    "__v": 0
+  },
+  {
+    "_id": 46,
+    "shoeId": 18,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 47,
+    "shoeId": 18,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 48,
+    "shoeId": 19,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 49,
+    "shoeId": 19,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 50,
+    "shoeId": 19,
+    "stock": 1,
+    "location": "",
+    "size": "4137",
+    "__v": 0
+  },
+  {
+    "_id": 51,
+    "shoeId": 20,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 52,
+    "shoeId": 20,
+    "stock": 1,
+    "location": "",
+    "size": "38",
+    "__v": 0
+  },
+  {
+    "_id": 53,
+    "shoeId": 21,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 54,
+    "shoeId": 21,
+    "stock": 1,
+    "location": "",
+    "size": "38",
+    "__v": 0
+  },
+  {
+    "_id": 55,
+    "shoeId": 21,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 56,
+    "shoeId": 21,
+    "stock": 1,
+    "location": "",
+    "size": "38",
+    "__v": 0
+  },
+  {
+    "_id": 57,
+    "shoeId": 21,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 58,
+    "shoeId": 22,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 59,
+    "shoeId": 22,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 60,
+    "shoeId": 23,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 61,
+    "shoeId": 23,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 62,
+    "shoeId": 23,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 63,
+    "shoeId": 24,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 64,
+    "shoeId": 24,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 65,
+    "shoeId": 24,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 66,
+    "shoeId": 24,
+    "stock": 1,
+    "location": "",
+    "size": "38",
+    "__v": 0
+  },
+  {
+    "_id": 67,
+    "shoeId": 25,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 68,
+    "shoeId": 25,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 69,
+    "shoeId": 26,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 70,
+    "shoeId": 26,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 71,
+    "shoeId": 26,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 72,
+    "shoeId": 26,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 73,
+    "shoeId": 26,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 74,
+    "shoeId": 26,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 75,
+    "shoeId": 27,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 76,
+    "shoeId": 27,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 77,
+    "shoeId": 27,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 78,
+    "shoeId": 27,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 79,
+    "shoeId": 28,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 80,
+    "shoeId": 28,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 81,
+    "shoeId": 28,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 82,
+    "shoeId": 28,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 83,
+    "shoeId": 28,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 84,
+    "shoeId": 28,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 85,
+    "shoeId": 28,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 86,
+    "shoeId": 28,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 87,
+    "shoeId": 28,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 88,
+    "shoeId": 28,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 89,
+    "shoeId": 28,
+    "stock": 1,
+    "location": "",
+    "size": "9",
+    "__v": 0
+  },
+  {
+    "_id": 90,
+    "shoeId": 28,
+    "stock": 1,
+    "location": "",
+    "size": "9",
+    "__v": 0
+  },
+  {
+    "_id": 91,
+    "shoeId": 28,
+    "stock": 1,
+    "location": "",
+    "size": "9",
+    "__v": 0
+  },
+  {
+    "_id": 92,
+    "shoeId": 28,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 93,
+    "shoeId": 28,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 94,
+    "shoeId": 28,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 95,
+    "shoeId": 28,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 96,
+    "shoeId": 28,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 97,
+    "shoeId": 28,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 98,
+    "shoeId": 28,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 99,
+    "shoeId": 29,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 100,
+    "shoeId": 29,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 101,
+    "shoeId": 29,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 102,
+    "shoeId": 29,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 103,
+    "shoeId": 29,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 104,
+    "shoeId": 29,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 105,
+    "shoeId": 29,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 106,
+    "shoeId": 29,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 107,
+    "shoeId": 29,
+    "stock": 1,
+    "location": "",
+    "size": "9",
+    "__v": 0
+  },
+  {
+    "_id": 108,
+    "shoeId": 29,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 109,
+    "shoeId": 29,
+    "stock": 1,
+    "location": "",
+    "size": "4",
+    "__v": 0
+  },
+  {
+    "_id": 110,
+    "shoeId": 29,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 111,
+    "shoeId": 29,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 112,
+    "shoeId": 29,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 113,
+    "shoeId": 29,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 114,
+    "shoeId": 29,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 115,
+    "shoeId": 29,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 116,
+    "shoeId": 30,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 117,
+    "shoeId": 30,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 118,
+    "shoeId": 30,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 119,
+    "shoeId": 30,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 120,
+    "shoeId": 30,
+    "stock": 1,
+    "location": "",
+    "size": "9",
+    "__v": 0
+  },
+  {
+    "_id": 121,
+    "shoeId": 30,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 122,
+    "shoeId": 30,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 123,
+    "shoeId": 30,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 124,
+    "shoeId": 30,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 125,
+    "shoeId": 30,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 126,
+    "shoeId": 31,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 127,
+    "shoeId": 31,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 128,
+    "shoeId": 31,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 129,
+    "shoeId": 31,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 130,
+    "shoeId": 31,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 131,
+    "shoeId": 31,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 132,
+    "shoeId": 31,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 133,
+    "shoeId": 31,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 134,
+    "shoeId": 31,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 135,
+    "shoeId": 32,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 136,
+    "shoeId": 32,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 137,
+    "shoeId": 33,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 138,
+    "shoeId": 33,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 139,
+    "shoeId": 33,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 140,
+    "shoeId": 33,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 141,
+    "shoeId": 33,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 142,
+    "shoeId": 33,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 143,
+    "shoeId": 34,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 144,
+    "shoeId": 34,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 145,
+    "shoeId": 34,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 146,
+    "shoeId": 34,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 147,
+    "shoeId": 34,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 148,
+    "shoeId": 34,
+    "stock": 1,
+    "location": "",
+    "size": "9",
+    "__v": 0
+  },
+  {
+    "_id": 149,
+    "shoeId": 34,
+    "stock": 1,
+    "location": "",
+    "size": "9",
+    "__v": 0
+  },
+  {
+    "_id": 150,
+    "shoeId": 35,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 151,
+    "shoeId": 35,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 152,
+    "shoeId": 35,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 153,
+    "shoeId": 35,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 154,
+    "shoeId": 35,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 155,
+    "shoeId": 35,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 156,
+    "shoeId": 35,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 157,
+    "shoeId": 36,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 158,
+    "shoeId": 36,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 159,
+    "shoeId": 36,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 160,
+    "shoeId": 36,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 161,
+    "shoeId": 36,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 162,
+    "shoeId": 36,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 163,
+    "shoeId": 37,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 164,
+    "shoeId": 37,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 165,
+    "shoeId": 37,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 166,
+    "shoeId": 37,
+    "stock": 1,
+    "location": "",
+    "size": "9",
+    "__v": 0
+  },
+  {
+    "_id": 167,
+    "shoeId": 37,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 168,
+    "shoeId": 37,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 169,
+    "shoeId": 37,
+    "stock": 1,
+    "location": "",
+    "size": "4",
+    "__v": 0
+  },
+  {
+    "_id": 170,
+    "shoeId": 38,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 171,
+    "shoeId": 38,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 172,
+    "shoeId": 38,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 173,
+    "shoeId": 38,
+    "stock": 1,
+    "location": "",
+    "size": "9",
+    "__v": 0
+  },
+  {
+    "_id": 174,
+    "shoeId": 38,
+    "stock": 1,
+    "location": "",
+    "size": "9",
+    "__v": 0
+  },
+  {
+    "_id": 175,
+    "shoeId": 38,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 176,
+    "shoeId": 38,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 177,
+    "shoeId": 39,
+    "stock": 1,
+    "location": "",
+    "size": "338",
+    "__v": 0
+  },
+  {
+    "_id": 178,
+    "shoeId": 39,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 179,
+    "shoeId": 39,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 180,
+    "shoeId": 39,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 181,
+    "shoeId": 39,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 182,
+    "shoeId": 39,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 183,
+    "shoeId": 39,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 184,
+    "shoeId": 39,
+    "stock": 1,
+    "location": "",
+    "size": "9",
+    "__v": 0
+  },
+  {
+    "_id": 185,
+    "shoeId": 39,
+    "stock": 1,
+    "location": "",
+    "size": "0",
+    "__v": 0
+  },
+  {
+    "_id": 186,
+    "shoeId": 39,
+    "stock": 1,
+    "location": "",
+    "size": "0",
+    "__v": 0
+  },
+  {
+    "_id": 187,
+    "shoeId": 39,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 188,
+    "shoeId": 39,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 189,
+    "shoeId": 39,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 190,
+    "shoeId": 39,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 191,
+    "shoeId": 39,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 192,
+    "shoeId": 39,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 193,
+    "shoeId": 39,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 194,
+    "shoeId": 39,
+    "stock": 1,
+    "location": "",
+    "size": "0",
+    "__v": 0
+  },
+  {
+    "_id": 195,
+    "shoeId": 39,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 196,
+    "shoeId": 40,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 197,
+    "shoeId": 40,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 198,
+    "shoeId": 40,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 199,
+    "shoeId": 40,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 200,
+    "shoeId": 40,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 201,
+    "shoeId": 40,
+    "stock": 1,
+    "location": "",
+    "size": "9",
+    "__v": 0
+  },
+  {
+    "_id": 202,
+    "shoeId": 40,
+    "stock": 1,
+    "location": "",
+    "size": "0",
+    "__v": 0
+  },
+  {
+    "_id": 203,
+    "shoeId": 40,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 204,
+    "shoeId": 40,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 205,
+    "shoeId": 40,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 206,
+    "shoeId": 41,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 207,
+    "shoeId": 41,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 208,
+    "shoeId": 42,
+    "stock": 1,
+    "location": "",
+    "size": "38",
+    "__v": 0
+  },
+  {
+    "_id": 209,
+    "shoeId": 42,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 210,
+    "shoeId": 42,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 211,
+    "shoeId": 42,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 212,
+    "shoeId": 42,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 213,
+    "shoeId": 42,
+    "stock": 1,
+    "location": "",
+    "size": "4442",
+    "__v": 0
+  },
+  {
+    "_id": 214,
+    "shoeId": 42,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 215,
+    "shoeId": 42,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 216,
+    "shoeId": 42,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 217,
+    "shoeId": 43,
+    "stock": 1,
+    "location": "",
+    "size": "38",
+    "__v": 0
+  },
+  {
+    "_id": 218,
+    "shoeId": 43,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 219,
+    "shoeId": 43,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 220,
+    "shoeId": 43,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 221,
+    "shoeId": 43,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 222,
+    "shoeId": 44,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 223,
+    "shoeId": 44,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 224,
+    "shoeId": 44,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 225,
+    "shoeId": 44,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 226,
+    "shoeId": 44,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 227,
+    "shoeId": 44,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 228,
+    "shoeId": 44,
+    "stock": 1,
+    "location": "",
+    "size": "0",
+    "__v": 0
+  },
+  {
+    "_id": 229,
+    "shoeId": 44,
+    "stock": 1,
+    "location": "",
+    "size": "0",
+    "__v": 0
+  },
+  {
+    "_id": 230,
+    "shoeId": 44,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 231,
+    "shoeId": 44,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 232,
+    "shoeId": 44,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 233,
+    "shoeId": 44,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 234,
+    "shoeId": 45,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 235,
+    "shoeId": 45,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 236,
+    "shoeId": 46,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 237,
+    "shoeId": 46,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 238,
+    "shoeId": 46,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 239,
+    "shoeId": 47,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 240,
+    "shoeId": 47,
+    "stock": 1,
+    "location": "",
+    "size": "4",
+    "__v": 0
+  },
+  {
+    "_id": 241,
+    "shoeId": 48,
+    "stock": 1,
+    "location": "",
+    "size": "38",
+    "__v": 0
+  },
+  {
+    "_id": 242,
+    "shoeId": 48,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 243,
+    "shoeId": 49,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 244,
+    "shoeId": 49,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 245,
+    "shoeId": 50,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 246,
+    "shoeId": 51,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 247,
+    "shoeId": 51,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 248,
+    "shoeId": 51,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 249,
+    "shoeId": 52,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 250,
+    "shoeId": 53,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 251,
+    "shoeId": 53,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 252,
+    "shoeId": 53,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 253,
+    "shoeId": 53,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 254,
+    "shoeId": 53,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 255,
+    "shoeId": 53,
+    "stock": 1,
+    "location": "",
+    "size": "9",
+    "__v": 0
+  },
+  {
+    "_id": 256,
+    "shoeId": 53,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 257,
+    "shoeId": 53,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 258,
+    "shoeId": 53,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 259,
+    "shoeId": 54,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 260,
+    "shoeId": 54,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 261,
+    "shoeId": 54,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 262,
+    "shoeId": 55,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 263,
+    "shoeId": 55,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 264,
+    "shoeId": 55,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 265,
+    "shoeId": 55,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 266,
+    "shoeId": 55,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 267,
+    "shoeId": 55,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 268,
+    "shoeId": 55,
+    "stock": 1,
+    "location": "",
+    "size": "0",
+    "__v": 0
+  },
+  {
+    "_id": 269,
+    "shoeId": 55,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 270,
+    "shoeId": 55,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 271,
+    "shoeId": 56,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 272,
+    "shoeId": 56,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 273,
+    "shoeId": 56,
+    "stock": 1,
+    "location": "",
+    "size": "9",
+    "__v": 0
+  },
+  {
+    "_id": 274,
+    "shoeId": 57,
+    "stock": 1,
+    "location": "",
+    "size": "38",
+    "__v": 0
+  },
+  {
+    "_id": 275,
+    "shoeId": 57,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 276,
+    "shoeId": 57,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 277,
+    "shoeId": 57,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 278,
+    "shoeId": 57,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 279,
+    "shoeId": 58,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 280,
+    "shoeId": 58,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 281,
+    "shoeId": 58,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 282,
+    "shoeId": 58,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 283,
+    "shoeId": 58,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 284,
+    "shoeId": 58,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 285,
+    "shoeId": 58,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 286,
+    "shoeId": 58,
+    "stock": 1,
+    "location": "",
+    "size": "38",
+    "__v": 0
+  },
+  {
+    "_id": 287,
+    "shoeId": 58,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 288,
+    "shoeId": 58,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 289,
+    "shoeId": 58,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 290,
+    "shoeId": 58,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 291,
+    "shoeId": 58,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 292,
+    "shoeId": 58,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 293,
+    "shoeId": 58,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 294,
+    "shoeId": 58,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 295,
+    "shoeId": 58,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 296,
+    "shoeId": 58,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 297,
+    "shoeId": 58,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 298,
+    "shoeId": 59,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 299,
+    "shoeId": 59,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 300,
+    "shoeId": 59,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 301,
+    "shoeId": 59,
+    "stock": 1,
+    "location": "",
+    "size": "38",
+    "__v": 0
+  },
+  {
+    "_id": 302,
+    "shoeId": 59,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 303,
+    "shoeId": 60,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 304,
+    "shoeId": 60,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 305,
+    "shoeId": 60,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 306,
+    "shoeId": 60,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 307,
+    "shoeId": 61,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 308,
+    "shoeId": 61,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 309,
+    "shoeId": 61,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 310,
+    "shoeId": 61,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 311,
+    "shoeId": 61,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 312,
+    "shoeId": 61,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 313,
+    "shoeId": 61,
+    "stock": 1,
+    "location": "",
+    "size": "8",
+    "__v": 0
+  },
+  {
+    "_id": 314,
+    "shoeId": 61,
+    "stock": 1,
+    "location": "",
+    "size": "9",
+    "__v": 0
+  },
+  {
+    "_id": 315,
+    "shoeId": 61,
+    "stock": 1,
+    "location": "",
+    "size": "4",
+    "__v": 0
+  },
+  {
+    "_id": 316,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 317,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 318,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 319,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 320,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 321,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 322,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 323,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 324,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 325,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 326,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 327,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 328,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 329,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 330,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 331,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 332,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "9",
+    "__v": 0
+  },
+  {
+    "_id": 333,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "9",
+    "__v": 0
+  },
+  {
+    "_id": 334,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "9",
+    "__v": 0
+  },
+  {
+    "_id": 335,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 336,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 337,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "4",
+    "__v": 0
+  },
+  {
+    "_id": 338,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "8",
+    "__v": 0
+  },
+  {
+    "_id": 339,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 340,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 341,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 342,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "4",
+    "__v": 0
+  },
+  {
+    "_id": 343,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 344,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 345,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 346,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 347,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 348,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 349,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 350,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 351,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 352,
+    "shoeId": 62,
+    "stock": 1,
+    "location": "",
+    "size": "4",
+    "__v": 0
+  },
+  {
+    "_id": 353,
+    "shoeId": 63,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 354,
+    "shoeId": 63,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 355,
+    "shoeId": 63,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 356,
+    "shoeId": 63,
+    "stock": 1,
+    "location": "",
+    "size": "0",
+    "__v": 0
+  },
+  {
+    "_id": 357,
+    "shoeId": 63,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 358,
+    "shoeId": 63,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 359,
+    "shoeId": 63,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 360,
+    "shoeId": 63,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 361,
+    "shoeId": 63,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 362,
+    "shoeId": 63,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 363,
+    "shoeId": 63,
+    "stock": 1,
+    "location": "",
+    "size": "4",
+    "__v": 0
+  },
+  {
+    "_id": 364,
+    "shoeId": 64,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 365,
+    "shoeId": 64,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 366,
+    "shoeId": 65,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 367,
+    "shoeId": 65,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 368,
+    "shoeId": 65,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 369,
+    "shoeId": 66,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 370,
+    "shoeId": 66,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 371,
+    "shoeId": 66,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 372,
+    "shoeId": 66,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 373,
+    "shoeId": 66,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 374,
+    "shoeId": 66,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 375,
+    "shoeId": 66,
+    "stock": 1,
+    "location": "",
+    "size": "1",
+    "__v": 0
+  },
+  {
+    "_id": 376,
+    "shoeId": 66,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 377,
+    "shoeId": 66,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 378,
+    "shoeId": 67,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 379,
+    "shoeId": 67,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 380,
+    "shoeId": 67,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 381,
+    "shoeId": 67,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 382,
+    "shoeId": 67,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 383,
+    "shoeId": 67,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 384,
+    "shoeId": 67,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 385,
+    "shoeId": 67,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 386,
+    "shoeId": 67,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 387,
+    "shoeId": 68,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 388,
+    "shoeId": 68,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 389,
+    "shoeId": 68,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 390,
+    "shoeId": 68,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 391,
+    "shoeId": 68,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 392,
+    "shoeId": 69,
+    "stock": 1,
+    "location": "",
+    "size": "38",
+    "__v": 0
+  },
+  {
+    "_id": 393,
+    "shoeId": 69,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 394,
+    "shoeId": 69,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 395,
+    "shoeId": 69,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 396,
+    "shoeId": 69,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 397,
+    "shoeId": 69,
+    "stock": 1,
+    "location": "",
+    "size": "446",
+    "__v": 0
+  },
+  {
+    "_id": 398,
+    "shoeId": 70,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 399,
+    "shoeId": 70,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 400,
+    "shoeId": 70,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 401,
+    "shoeId": 70,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 402,
+    "shoeId": 70,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 403,
+    "shoeId": 70,
+    "stock": 1,
+    "location": "",
+    "size": "38",
+    "__v": 0
+  },
+  {
+    "_id": 404,
+    "shoeId": 70,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 405,
+    "shoeId": 70,
+    "stock": 1,
+    "location": "",
+    "size": "42",
+    "__v": 0
+  },
+  {
+    "_id": 406,
+    "shoeId": 70,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 407,
+    "shoeId": 70,
+    "stock": 1,
+    "location": "",
+    "size": "43",
+    "__v": 0
+  },
+  {
+    "_id": 408,
+    "shoeId": 70,
+    "stock": 1,
+    "location": "",
+    "size": "44",
+    "__v": 0
+  },
+  {
+    "_id": 409,
+    "shoeId": 70,
+    "stock": 1,
+    "location": "",
+    "size": "0",
+    "__v": 0
+  },
+  {
+    "_id": 410,
+    "shoeId": 70,
+    "stock": 1,
+    "location": "",
+    "size": "4",
+    "__v": 0
+  },
+  {
+    "_id": 411,
+    "shoeId": 70,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 412,
+    "shoeId": 70,
+    "stock": 1,
+    "location": "",
+    "size": "4",
+    "__v": 0
+  },
+  {
+    "_id": 413,
+    "shoeId": 70,
+    "stock": 1,
+    "location": "",
+    "size": "3",
+    "__v": 0
+  },
+  {
+    "_id": 414,
+    "shoeId": 70,
+    "stock": 1,
+    "location": "",
+    "size": "2",
+    "__v": 0
+  },
+  {
+    "_id": 415,
+    "shoeId": 71,
+    "stock": 1,
+    "location": "",
+    "size": "383839",
+    "__v": 0
+  },
+  {
+    "_id": 416,
+    "shoeId": 71,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 417,
+    "shoeId": 71,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 418,
+    "shoeId": 72,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 419,
+    "shoeId": 73,
+    "stock": 1,
+    "location": "",
+    "size": "36",
+    "__v": 0
+  },
+  {
+    "_id": 420,
+    "shoeId": 73,
+    "stock": 1,
+    "location": "",
+    "size": "38",
+    "__v": 0
+  },
+  {
+    "_id": 421,
+    "shoeId": 73,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 422,
+    "shoeId": 73,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 423,
+    "shoeId": 73,
+    "stock": 1,
+    "location": "",
+    "size": "37",
+    "__v": 0
+  },
+  {
+    "_id": 424,
+    "shoeId": 73,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 425,
+    "shoeId": 74,
+    "stock": 1,
+    "location": "",
+    "size": "38",
+    "__v": 0
+  },
+  {
+    "_id": 426,
+    "shoeId": 74,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 427,
+    "shoeId": 75,
+    "stock": 1,
+    "location": "",
+    "size": "35",
+    "__v": 0
+  },
+  {
+    "_id": 428,
+    "shoeId": 75,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 429,
+    "shoeId": 75,
+    "stock": 1,
+    "location": "",
+    "size": "38",
+    "__v": 0
+  },
+  {
+    "_id": 430,
+    "shoeId": 76,
+    "stock": 1,
+    "location": "",
+    "size": "35",
+    "__v": 0
+  },
+  {
+    "_id": 431,
+    "shoeId": 76,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 432,
+    "shoeId": 76,
+    "stock": 1,
+    "location": "",
+    "size": "37",
+    "__v": 0
+  },
+  {
+    "_id": 433,
+    "shoeId": 76,
+    "stock": 1,
+    "location": "",
+    "size": "38",
+    "__v": 0
+  },
+  {
+    "_id": 434,
+    "shoeId": 76,
+    "stock": 1,
+    "location": "",
+    "size": "40",
+    "__v": 0
+  },
+  {
+    "_id": 435,
+    "shoeId": 77,
+    "stock": 1,
+    "location": "",
+    "size": "37",
+    "__v": 0
+  },
+  {
+    "_id": 436,
+    "shoeId": 77,
+    "stock": 1,
+    "location": "",
+    "size": "35",
+    "__v": 0
+  },
+  {
+    "_id": 437,
+    "shoeId": 77,
+    "stock": 1,
+    "location": "",
+    "size": "34",
+    "__v": 0
+  },
+  {
+    "_id": 438,
+    "shoeId": 77,
+    "stock": 1,
+    "location": "",
+    "size": "39",
+    "__v": 0
+  },
+  {
+    "_id": 439,
+    "shoeId": 77,
+    "stock": 1,
+    "location": "",
+    "size": "36",
+    "__v": 0
+  },
+  {
+    "_id": 440,
+    "shoeId": 78,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
+  },
+  {
+    "_id": 441,
+    "shoeId": 78,
+    "stock": 1,
+    "location": "",
+    "size": "41",
+    "__v": 0
   }
 ]

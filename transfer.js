@@ -1,21 +1,19 @@
-const shoesData = require('./chunda.shoes.js');
+const shoesData = require('./shoes');
+let idCounter = 1;
 const fs = require('fs');
 function transformSizes(data) {
-  return data.map(item => {
+  return data.flatMap(item => {
     // Split the size string by either '.' or '，' (Chinese comma)
-    const sizes = item.size.split(/[.,，]/)
+    return item.size.split(/[.,，]/)
       .filter(size => size.trim() !== '') // Remove empty entries
       .map(size => ({
-        shoeId: item._id.$oid, // Use the _id value
+        _id: idCounter++, // Use the _id value
+        shoeId: item.id,
         stock: 1, // Assuming each size has 1 stock by default
         location: '', // Use the location from the item
-        size: size.trim()
+        size: size.trim(),
+        __v: 0
       }));
-    
-    return {
-      ...item,
-      sizes: sizes
-    };
   });
 }
 const transformedData = transformSizes(shoesData);
