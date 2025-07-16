@@ -4,7 +4,6 @@ const shoesController = {
   async getAllShoes(ctx) {
     try {
       const { page, pageSize, articleNumber, location } = ctx.query;
-      console.log(articleNumber, location);
       ctx.body = await shoesService.getAllShoes(page, pageSize, { articleNumber, location });
     } catch (error) {
       ctx.status = 500;

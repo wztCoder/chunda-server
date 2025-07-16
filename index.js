@@ -6,6 +6,7 @@ require('dotenv').config();
 require('./config/db'); // 引入数据库配置
 const User = require('./models/user');
 const shoesRoutes = require('./src/routes/shoes.js')
+const userScoreRoutes = require('./src/routes/userScore.js')
 // Create Koa app instance
 const app = new Koa();
 const router = new Router();
@@ -236,13 +237,20 @@ router.delete('/api/users/:id', async (ctx) => {
     };
   }
 });
+app.use(async (ctx, next) => {
+  console.log(`Received ${ctx.method} ${ctx.path}`);
+  await next();
+});
+app.use(cors());
 // Apply router middleware
 app.use(bodyParser());
 app.use(router.routes());
 app.use(router.allowedMethods());
 app.use(shoesRoutes.routes());
 app.use(shoesRoutes.allowedMethods());
-app.use(cors());
+app.use(userScoreRoutes.routes());
+app.use(userScoreRoutes.allowedMethods());
+
 app.use(async (ctx, next) => {
   try {
     await next();
